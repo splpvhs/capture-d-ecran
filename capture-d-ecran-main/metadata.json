@@ -1,0 +1,12 @@
+{
+  "name": "ScreenDroid - Capture d'écran & Enregistreur Vidéo",
+  "description": "Application Android & PWA de capture d'écran photo et vidéo HD avec bouton flottant invisible lors des captures, éditeur d'image intégré et sauvegarde automatique.",
+  "requestFramePermissions": [
+    "display-capture",
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
